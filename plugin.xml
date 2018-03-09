@@ -5,12 +5,17 @@
     <label lang="de">Bestandsänderung Cache-Bedingung Plugin</label>
     <label lang="en">Stock change cache condition plugin</label>
 
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <license>MIT</license>
     <copyright>Net Inventors GmbH</copyright>
     <author>Net Inventors GmbH</author>
     <link>https://github.com/NetInventors</link>
     <compatibility minVersion="5.3.5"/>
+
+    <changelog version="1.0.1">
+        <changes lang="de"><![CDATA[Informationen zum Plug-In erweitert]]></changes>
+        <changes lang="en"><![CDATA[Add more information about the plugin]]></changes>
+    </changelog>
 
     <changelog version="1.0.0">
         <changes lang="de"><![CDATA[Initiale Veröffentlichung]]></changes>
