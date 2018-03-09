@@ -1,0 +1,15 @@
+{
+  "name": "netinventors/stock-change-cache-condition",
+  "keywords": ["shopware", "cache", "plugin"],
+  "description": "",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Net Inventors GmbH",
+      "email": "info@netinventors.de"
+    }
+  ],
+  "require": {
+    "shopware/shopware": ">=5.3.5"
+  }
+}
