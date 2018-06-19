@@ -1,3 +1,6 @@
+**NOTE**: If you are viewing this on GitHub, please be advised that the repo has been moved to [GitLab](https://gitlab.netinventors.de/shopware/labs/NetiStockChangeCacheCondition) and we will no longer respond to Pull Requests on this repo, as it is only a mirror of the GitLab repository.
+
+
 # StockChangeCacheCondition
 This plugin prevents the cache invalidation if only the stock attribute is changed (via doctrine model) and no threshold (https://en-community.shopware.com/_detail_1532.html) is exceeded.
 
@@ -7,17 +10,9 @@ This plugin prevents the cache invalidation if only the stock attribute is chang
 ## Install
 Install Plugin via plugin manager or upload this plugin in "/custom/plugins/". The plugin directory should be named "NetiStockChangeCacheCondition". 
 
-## How to report bugs / request features?
-* [GitHub issue tracker](https://github.com/NetInventors/sw.ext.neti_stock_change_cache_condition/issues)
-
 ## Get involved 
 We highly appreciate if you want to add further functions and fix issues. Just fork our plugin and create a pull request.
 For more information about contributing to this plugin, please see [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## GitHub
-* [GitHub Repository](https://github.com/NetInventors/sw.ext.neti_stock_change_cache_condition) 
-* [ChangeLog](https://github.com/NetInventors/sw.ext.neti_stock_change_cache_condition/commits)
-* [Issues](https://github.com/NetInventors/sw.ext.neti_stock_change_cache_condition/issues)
 
 ## License & Copyright
 Copyright (c) 2016, Net Inventors - Agentur für digitale Medien GmbH
